@@ -3,7 +3,9 @@
 
 ### 📖 Project Overview
 Experience Battleships on a grander scale! This **Java-based desktop application** expands the classic naval combat game with larger grids, more ships, and a modern dual-panel UI dashboard. 
+<br />
 Unlike the traditional 10x10 game, Battleships Pro features an expansive **20x20 tactical grid** and **seven unique ships**, creating a more engaging and deeply strategic experience.
+<br />
 Built on a clean **MVC-inspired architecture**, the project leverages **GraalVM** to seamlessly blend a **JavaFX** UI with polyglot scripting in **Python** and **JavaScript**.
 
 ### ✨ Key Features
