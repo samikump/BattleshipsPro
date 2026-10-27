@@ -24,3 +24,5 @@ Built on a clean **MVC-inspired architecture**, the project leverages **GraalVM*
 *   Open the project in NetBeans (or your preferred IDE).
 *   Clean and Build the project using Maven.
 *   Run the `Launcher` class to start the game.
+
+TODO: sounds
