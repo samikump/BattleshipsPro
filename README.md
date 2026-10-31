@@ -26,4 +26,5 @@ Built on a clean **MVC-inspired architecture**, the project leverages **GraalVM*
 *   Run the `Launcher` class to start the game.
 
 TODO: sounds for miss, hit and sinking
+<br />
 TODO: human vs human play
