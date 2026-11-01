@@ -25,6 +25,6 @@ Built on a clean **MVC-inspired architecture**, the project leverages **GraalVM*
 *   Clean and Build the project using Maven.
 *   Run the `Launcher` class to start the game.
 
-TODO: sounds for miss, hit and sinking
+TODO: sounds for miss, hit a ship and sink a ship
 <br />
 TODO: human vs human play
